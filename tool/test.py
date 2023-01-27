@@ -11,7 +11,7 @@ import os
 #           ).bold = True
 #
 #
-# document.save('demo.docx')
+# document.save('demo.docx')  pyinstaller -F -w -i C:\Users\92410\Desktop\pdf\favicon.ico tk.py
 
 test=os.path.dirname(r'C:\Users\92410\Desktop\pdf\新建文件夹\test.py')
 print(test)
